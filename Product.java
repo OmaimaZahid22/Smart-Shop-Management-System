@@ -1,4 +1,4 @@
-
+javac *.java
 public class Product {
 
     private int productId;
